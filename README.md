@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Owner of PowerCore – multifunctionele Discord bot<br>🧑‍🎓 Studying ICT<br>🧑‍💻 Learning Software Engineering<br>📄 Passionate about coding in JavaScript, Python, TypeScript & HTML — with JavaScript as my main language
+⚡ Owner of PowerCore the multifunctionele Discord bot<br>🧑‍🎓 Studying ICT<br>🧑‍💻 Learning Software Engineering<br>📄 Passionate about coding in JavaScript, Python, TypeScript and HTML with JavaScript as my main language
 
 
 ## 🌐 Socials:
