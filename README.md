@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Liamdavids16&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Liamdavids16&theme=shadow_blue&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Liamdavids16&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Liamdavids16&theme=react-dark&hide_border=true&area=true)
+![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=Liamdavids16&theme=dark&hide_border=true)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Liamdavids16&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
